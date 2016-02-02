@@ -1,0 +1,29 @@
+body {
+	background: #ffef99 url('new-york-liberty.jpg') no-repeat scroll center top ;
+	background-size: 175%;
+	font-family: 'Lora', serif;
+}
+
+
+h1 {
+	font-size: 300%;
+	line-height: 2em;
+	float: left;
+	margin-left: 130px;
+
+}
+
+#content {
+	list-style: none;
+	float: left;
+	width: 200px;
+	display: inline-block;
+	padding: 40px;
+	margin: 5%;
+	border-radius: 2px;
+	border: 1px groove black;
+	line-height: 1.6em;
+	background-color: #b3b3b3;
+	background: rgba(0, 0, 0, 0.2);
+	color: #000;
+}
